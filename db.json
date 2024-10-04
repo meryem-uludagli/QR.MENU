@@ -1,5 +1,6 @@
 {
-    "menu": [{
+    "menu": [
+        {
             "id": 1,
             "title": "Strained Pancake",
             "price": 11,
@@ -39,7 +40,6 @@
             "img": "./image/item-5.jpeg",
             "desc": "The indispensable taste of village breakfasts is now here! Village Taste breakfast, prepared with completely natural ingredients, invites you to a delicious feast of taste."
         },
-
         {
             "id": 6,
             "title": "Oreo Dream",
